@@ -14,6 +14,15 @@ const Footer = () => {
             <p>
               &copy;2010 - 2026, Not Zerodha Broking Ltd. All rights reserved.
             </p>
+            <div className="social_media">
+              <ul>
+                <a href="#"><i className="fa fa-twitter" aria-hidden="true"></i></a>
+                <a href="#"><i className="fa fa-facebook-official" aria-hidden="true"></i></a>
+                <a href="#"><i className="fa fa-instagram" aria-hidden="true"></i></a>
+                <a href="#"><i className="fa fa-linkedin" aria-hidden="true"></i></a>
+                <a href="#"><i className="fa fa-telegram" aria-hidden="true"></i></a>
+              </ul>
+            </div>
           </div>
           <div className="col">
             <p>Company</p>
