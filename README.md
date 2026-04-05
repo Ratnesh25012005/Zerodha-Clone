@@ -23,7 +23,7 @@ Node.js
 Express.js
 
 Database:
-
+```
 MongoDB (Mongoose)
 📂 Project Structure
 zerodha-clone/
@@ -34,6 +34,7 @@ zerodha-clone/
 ├── routes/          # API routes
 ├── controllers/     # Business logic
 └── README.md
+```
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
 git clone https://github.com/your-username/zerodha-clone.git
